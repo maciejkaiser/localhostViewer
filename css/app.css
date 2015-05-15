@@ -2,3 +2,7 @@ body{
 	background-image: url('../img/bg.png');
 	background-repeat: repeat;
 }
+
+.panel-body a{
+	margin: 4px;
+}
